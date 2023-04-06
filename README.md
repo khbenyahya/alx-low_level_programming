@@ -1,1 +1,1 @@
-variabesifelsewhile
+pointers arrays strings
